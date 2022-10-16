@@ -1,0 +1,7 @@
+minimumPlayTime: 72000
+  #in ticks
+  #72000 per hour
+
+messages:
+  - "line 1"
+  - "line 2"

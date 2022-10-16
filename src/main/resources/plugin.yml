@@ -1,0 +1,4 @@
+name: UpdateNotifier
+version: '${project.version}'
+main: net.vanillaplus.updatenotifier.UpdateNotifier
+api-version: 1.19
